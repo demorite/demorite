@@ -18,12 +18,6 @@ jobs:
           base_hireable: true
           config_timezone: Europe/Paris
           
-#          plugin_achievements: true
-          
-          plugin_habits: true
-          plugin_habits_charts: true
-          plugin_habits_charts_type: graph
-          
           plugin_languages: true
           plugin_languages_details: percentage
           
